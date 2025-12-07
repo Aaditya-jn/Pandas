@@ -16,3 +16,4 @@ students
 
 ipl = pd.read_csv("/home/aaditya/Desktop/Python/Pandas/ipl-matches.csv")
 movies = pd.read_csv("/home/aaditya/Desktop/Python/Pandas/movies.csv")
+batsman_run = pd.read_csv("/home/aaditya/Desktop/Python/Pandas/batsman_runs_ipl.csv")
